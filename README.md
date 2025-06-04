@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=800&size=50&pause=500&color=00F762&background=F7FFAC00&center=true&vCenter=true&width=1080&height=300&lines=I+am+Mehrab+Hossain!;A+Blockchain+Enthusiasts+%26+Learner!;Welcome+to+my+profile!+%E2%9A%A1%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=800&size=50&pause=500&color=00F762&background=F7FFAC00&center=true&vCenter=true&width=1080&height=300&lines=%E2%9C%8B+Hi+there!;I+am+Mehrab+Hossain!;A+Blockchain+Enthusiasts+%26+Learner!;Welcome+to+my+profile!+%E2%9A%A1%F0%9F%94%A5)](https://git.io/typing-svg)
 
 ---
 
