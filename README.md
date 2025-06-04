@@ -41,13 +41,14 @@
 ### 📫 Connect with Me
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30"/></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30"/></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30"/></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769FF&logoColor=white&labelColor=&style=for-the-badge" height="30"/></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30"/></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30"/></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30"/></a>
+  <a href="https://linkedin.com/in/mehrab-hossain-shakib-4b4293242"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30"/></a>
+  <a href="https://x.com/mehrab_shakib"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" height="30"/></a>
+  <a href="https://canary.discord.com/channels/@me"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30"/></a>
+  <a href="https://behance.net/4ba58887"><img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769FF&logoColor=white&labelColor=&style=for-the-badge" height="30"/></a>
+  <a href="mailto:shakibmehrab@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30"/></a>
+  <a href="https://wa.me/+8801859640812"><img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30"/></a>
+  <a href="https://t.me/fat_scorpie"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30"/></a>
+ 
 </div>
 
 ---
@@ -76,6 +77,18 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shakib-mehrab/shakib-mehrab/output/pacman-contribution-graph.svg">
   <img src="https://raw.githubusercontent.com/shakib-mehrab/shakib-mehrab/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
 </picture>
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shakib-mehrab&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
